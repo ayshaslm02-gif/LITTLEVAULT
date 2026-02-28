@@ -49,6 +49,10 @@ https://github.com/user-attachments/assets/47086f3b-6285-4ca2-959f-8d158a070cff
 └─────────┬────────┘            └──────────────────┘
           │
           ▼
+
+https://github.com/user-attachments/assets/ef16dbf3-27ea-4d46-b0d5-ee970e5a02ad
+
+
 ┌──────────────────┐
 │ Redirect to      │
 │ Dashboard        │
